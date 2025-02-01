@@ -61,6 +61,7 @@ if __name__ == "__main__":
     print(f"Prompt: {prompt}\n")
     stream_response(prompt)
 
+
     # Teste de tratamento de erros
     print("\nTesting error handling:")
     try:
